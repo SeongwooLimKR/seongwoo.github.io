@@ -36,4 +36,10 @@ Here are my main links:
 
 ## Publications
 
-{% bibliography --query @* %}
+{% include bib_search.liquid %}
+
+<div class="publications">
+
+{% bibliography %}
+
+</div>
