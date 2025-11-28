@@ -9,10 +9,10 @@ profile:
   image: seongwoolim.jpg
   image_circular: false # crops the image to make it circular
 
-#selected_papers: false # includes a list of papers marked as "selected={true}"
-#scholar:
-#  selected_papers_only: false # Set to true to only show selected papers
-#  order: asc # Optional: 'asc' for oldest first, 'desc' for newest first
+selected_papers: false # includes a list of papers marked as "selected={true}"
+scholar:
+  sort_by: year
+  order: asc # Optional: 'asc' for oldest first, 'desc' for newest first
 
 social: false # includes social icons at the bottom of the page
 
