@@ -24,3 +24,9 @@ latest_posts:
 ---
 
 I’m a postdoctoral researcher in <a href='https://sail.kaist.ac.kr'>SAIL</a> at Korea Advanced Institute of Science and Technology (KAIST). I received my B.S. and Ph.D. degrees from Ulsan National Institute of Science and Technology (UNIST) under the supervision of Prof. Jaesik Choi. I am interested in explainable AI that clarifies how models make decisions, as well as in efficient inference in symbolic model.
+
+Here are my main links:
+
+- [CV](assets/pdf/CV.pdf)
+- [Mail](seongwoolim@kaist.ac.kr)
+- [GitHub](https://github.com/SeongwooLimKR)
