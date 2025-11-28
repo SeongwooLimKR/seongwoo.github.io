@@ -9,10 +9,10 @@ profile:
   image: seongwoolim.jpg
   image_circular: false # crops the image to make it circular
 
-# selected_papers: false # includes a list of papers marked as "selected={true}"
-scholar:
-  selected_papers_only: false # Set to true to only show selected papers
-  order: asc # Optional: 'asc' for oldest first, 'desc' for newest first
+#selected_papers: false # includes a list of papers marked as "selected={true}"
+#scholar:
+#  selected_papers_only: false # Set to true to only show selected papers
+#  order: asc # Optional: 'asc' for oldest first, 'desc' for newest first
 
 social: false # includes social icons at the bottom of the page
 
@@ -33,3 +33,7 @@ Here are my main links:
 - [CV](/assets/pdf/CV.pdf)
 - [Mail](mailto:seongwoolim@kaist.ac.kr)
 - [GitHub](https://github.com/SeongwooLimKR)
+
+## Publications
+
+{% bibliography --query @* %}
