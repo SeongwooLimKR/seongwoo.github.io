@@ -27,6 +27,6 @@ I’m a postdoctoral researcher in <a href='https://sail.kaist.ac.kr'>SAIL</a> a
 
 Here are my main links:
 
-- [CV](assets/pdf/CV.pdf)
+- [CV](/assets/pdf/CV.pdf)
 - [Mail](mailto:seongwoolim@kaist.ac.kr)
 - [GitHub](https://github.com/SeongwooLimKR)
