@@ -53,11 +53,6 @@ socials_in_search: true
 posts_in_search: true
 bib_search: true
 
-# 상단 메뉴 설정 (여기부터 새로 추가한 부분)
-navbar:
-  - title: "About"
-    url: "/"
-
 # Dimensions
 max_width: 930px
 
